@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/pages/sample_page2)
+[Project 1 Title](portfolio/pages/sample_page2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
