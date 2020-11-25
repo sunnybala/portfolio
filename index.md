@@ -2,13 +2,9 @@
 
 ---
 
-### Category Name 1 
+### 2020 
 
-[Project 1 Title](portfolio/pages/sample_page2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[AI Speech Synthesis for Dubbing](portfolio/pages/sample_page2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +13,7 @@
 
 ---
 
-### Category Name 2
+### 2019
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
