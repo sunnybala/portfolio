@@ -31,11 +31,14 @@ Inspired by the Japanese square watermelon which is created by growing into a sp
 ### 2018
 
 [Etch-a-Sketch Robot](http://example.com/)
+Connected motors to the knob of an etch-a-sketch and used a graph based algorithm to translate images into something reproducible on screen.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Elevator Awkwardness Minimizer](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+For a period of time we could not use the stairs and had to take the elevator in the office. This led to cramped conditions. Here, I simulated different numbers of agents within the confines of an elevator that tried to maximize their distance with each other. The result of this was a series of recommendations around where to stand given N people in the elevator.
 
 ---
 
