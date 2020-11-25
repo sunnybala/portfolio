@@ -8,22 +8,46 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+
+### 2019
+
+[E-Ink Train Display](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### 2019
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Spherical Cucumber](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
+### 2018
 
+[Etch-a-Sketch Robot](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Elevator Awkwardness Minimizer](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Senate Insider Trading Investigation](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### 2017
+
+[Virtual Reality Conducting Game](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Virtual Reality Conducting Game](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 
 
 ---
