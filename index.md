@@ -4,7 +4,7 @@
 
 ### 2020 
 
-[AI Speech Synthesis for Dubbing](/pages/sample_page2)
+[AI Speech Synthesis for Dubbing](pages/sample_page2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
