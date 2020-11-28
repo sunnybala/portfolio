@@ -17,4 +17,4 @@ I wanted the shape to be something surprising -- spherical cucumbers fit that bi
 
 This project ultimately failed in a pretty predictable way (ex post). The watermelon enclosures are often much smaller than the natural end size of the watermelon in each dimension. Like a balloon being blown up, the watermelons also grow in all directions to reach their elliptical shape. On the other hand, the containers I had made were too small for the cucumbers. The cucumber growth was largely in length, which led to it hitting the opposing side of my contained and simply bending around it. 
 
-<img src="../images/bent-cuke.png?raw=true"/>
+<img src="/portfolio/images/bent-cuke.png?raw=true"/>
