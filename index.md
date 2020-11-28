@@ -51,6 +51,8 @@ For a period of time due to construction we could not use the stairs and had to 
 
 Both Senators and House Representatives are required to disclose financial stock transactions. Some articles came out around this time pointing out suspicious trading activity by a few politicians. A friend and I took the database of XML/PDFs for the Senate data (2013-2017) and created a database using scraping techniques + mechanical turk for difficult to parse entries. Combining with financial data, we were able to investigate suspicious trades on our own. We were able to identify the same instances from the news data. Critically, however, we failed to find evidence that these trades were suspicious in their relative size or even profitability. 
 
+<img src="images/senate.png?raw=true"/>
+
 ---
 
 ### 2017
