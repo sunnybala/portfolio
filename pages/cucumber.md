@@ -9,7 +9,7 @@
 
 Creating shaped fruit involves creating special molds around growing plants. An image from a <a href="https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201"> Pittsburgh Post-Gazette article </a> on the topic demonstrates exactly how it is done. 
 
-<img src="images/watermelon.jpg?raw=true"/>
+<img src="/portfolio/images/watermelon.jpg?raw=true"/>
 
 I wanted to try doing the same. At the time, I was living in a tiny NYC apartment. Watermelons were out of the question, but after some research into fruit that I could grow within my constraints I settled on cucumbers. After a quick trip to home depot to grab the supplies I planted them and shifted focus to learning CAD.
 
@@ -17,4 +17,4 @@ I wanted the shape to be something surprising -- spherical cucumbers fit that bi
 
 This project ultimately failed in a pretty predictable way (ex post). The watermelon enclosures are often much smaller than the natural end size of the watermelon in each dimension. Like a balloon being blown up, the watermelons also grow in all directions to reach their elliptical shape. On the other hand, the containers I had made were too small for the cucumbers. The cucumber growth was largely in length, which led to it hitting the opposing side of my contained and simply bending around it. 
 
-<img src="images/bent-cuke.png?raw=true"/>
+<img src="../images/bent-cuke.png?raw=true"/>
