@@ -31,21 +31,19 @@ Inspired by the Japanese square watermelon which is created by growing into a sp
 ### 2018
 
 [Etch-a-Sketch Robot](http://example.com/)
-I connected motors to the knob of an etch-a-sketch and wrote code to reproduce images onto the screen. I did this by converting the image to a graph representation and traversing it. This was my first hardware project. 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+ This was my first hardware project. I connected motors to the knob of an etch-a-sketch and designed a process to reproduce images on the screen by converting the image to a graph representation and traversing it.
+<img src="images/etch.png?raw=true"/>
 
 ---
 [Elevator Awkwardness Minimizer](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ele.png?raw=true"/>
 
 For a period of time due to construction we could not use the stairs and had to take the elevator in the office. This led to cramped conditions as everyone crowded in. Here, I simulated different numbers of agents within the confines of an elevator that tried to maximize their distance with each other. The result of this was a series of recommendations around where to stand given N people in the elevator.
 
 ---
 
 [Senate Insider Trading Investigation](http://example.com/)
-Both Senators and House Representatives are required to disclose financial stock transactions. Some articles came out around this time pointing out suspicious trading activity by a few politicians. A friend and I took the database of XML/PDFs for the Senate data and created a database using scraping techniques + mechanical turk for difficult to parse entries. Combining with financial data, we were able to investigate suspicious trades on our own. We were able to identify the same instances 
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Both Senators and House Representatives are required to disclose financial stock transactions. Some articles came out around this time pointing out suspicious trading activity by a few politicians. A friend and I took the database of XML/PDFs for the Senate data (2013-2017) and created a database using scraping techniques + mechanical turk for difficult to parse entries. Combining with financial data, we were able to investigate suspicious trades on our own. We were able to identify the same instances from the news data. Critically, however, we failed to find evidence that these trades were suspicious in their relative size or even profitability. 
 
 ---
 
@@ -53,12 +51,12 @@ Both Senators and House Representatives are required to disclose financial stock
 
 [Virtual Reality Conducting Game](http://example.com/)
 As an early adopter of the HTC Vive, I was amazed by the possibilities. For this project I learned how to use the Unity game engine and designed a game to conduct a virtual orchestra. I used MIDI files to get the scores across instruments then allowed the player to control the tempo, volume, and cue-ing individual instruments to come in.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/vr-conduct.png?raw=true"/>
 
 ---
 
 [Fake YouTube Video Detection](http://example.com/)
 A popular YouTuber put up an alleged video of him slapping himself in the face for 24 hours. I wanted to try using python on video data to verify if the video was legitimate. 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/slap.png?raw=true"/>
 
 ---
