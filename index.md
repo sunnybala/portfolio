@@ -8,7 +8,7 @@
 
 Neural networks have been shown as being effective for cloning voices given speech data (ex. creating fake speeches by politicians). Recent multi-speaker networks work in the space of vocal characteristics and therefore no longer require training for each speaker individually. Here, I applied one such network to automatically dub an episode of a Japanese reality show (Terrace House) into English.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/terrace_house.png?raw=true"/>
 
 ---
 
