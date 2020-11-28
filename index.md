@@ -55,7 +55,7 @@ Both Senators and House Representatives are required to disclose financial stock
 
 ### 2017
 
-[Virtual Reality Conducting Game](http://example.com/)
+[Virtual Reality Conducting Game](pages/vr-conducting)
 
 As an early adopter of the HTC Vive, I was amazed by the possibilities. For this project I learned how to use the Unity game engine and designed a game to conduct a virtual orchestra. I used MIDI files to get the scores across instruments then allowed the player to control the tempo, volume, and cue-ing individual instruments to come in.
 
