@@ -17,7 +17,7 @@ Neural networks have been shown as being effective for cloning voices given spee
 I've always wanted to play around with an e-ink panel. Commuting via the Metro North every day meant that I spent a of time staring at the board of train times after leaving work to go to the train platform. Here I combined a consumer e-ink panel and a raspberry pi zero in a 3D printed case to mimic the similar device on the platform. It used the MTA API in order to grab the train times and let me glance up next to my monitor to better plan my exit.
 
 [E-Ink Train Display](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/train.png?raw=true"/>
 
 ---
 
