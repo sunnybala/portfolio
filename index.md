@@ -4,7 +4,7 @@
 
 ### 2020 
 
-[AI Speech Synthesis for Dubbing](pages/sample_page2)
+[AI Speech Synthesis for Dubbing](pages/dubbing)
 
 Neural networks have been shown as being effective for cloning voices given speech data (ex. creating fake speeches by politicians). Recent multi-speaker networks work in the space of vocal characteristics and therefore no longer require training for each speaker individually. Here, I applied one such network to automatically dub an episode of a Japanese reality show (Terrace House) into English.
 
