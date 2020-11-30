@@ -72,3 +72,46 @@ A popular YouTuber put up an alleged video of him slapping himself in the face f
 <img src="images/slap.png?raw=true"/>
 
 ---
+
+### 2016 and Prior (College)
+
+[Landmark - Natural Directions](pages/vr-conducting)
+
+placeholder 
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Course Recommender](pages/vr-conducting)
+
+placeholder 
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[AlgoBlues - Markov Chain Music](pages/vr-conducting)
+
+placeholder 
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Bestie - Social Interaction Service](pages/vr-conducting)
+
+placeholder 
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[CUDiningView - Dining Hall Crowdedness](pages/vr-conducting)
+
+placeholder 
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+---

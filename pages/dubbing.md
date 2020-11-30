@@ -1,6 +1,6 @@
 ## AI Speech Synthesis for Dubbing Terrace House 
 
-**Quick Look:** Inspired by the Japanese square watermelon which is created by growing into a special mold, I thought it would be fun to learn more about CAD + 3D Printing by applying a similar idea to cucumbers. I grew cucumbers in my apartment and designed a special mold to try and force them into a spherical shape. Unfortunately I didn’t succeed – they just bent.
+**Quick Look:** Neural networks have been shown as being effective for cloning voices given speech data (ex. creating fake speeches by politicians). Recent multi-speaker networks work in the space of vocal characteristics and therefore no longer require training for each speaker individually. Here, I applied one such network to automatically dub an episode of a Japanese reality show (Terrace House) into English.
 
 ### Description 
 Over the last few years a bunch of my friends kept recommending this Japanese reality show called Terrace House. Now, I like reality TV shows but I tend to watch them in the background while I do other activities. The biggest reason I kept passing up on watching this show was the need to constantly read subtitles. Look away and I’d have no clue what I missed.
