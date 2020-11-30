@@ -75,7 +75,7 @@ A popular YouTuber put up an alleged video of him slapping himself in the face f
 
 ### 2016 and Prior (College)
 
-[Landmark - Natural Directions](pages/vr-conducting)
+[Landmark - Natural Directions](https://github.com/benlowkh/Landmark)
 
 placeholder 
 
@@ -99,7 +99,7 @@ placeholder
 
 ---
 
-[Bestie - Social Interaction Service](pages/vr-conducting)
+[Bestie - Social Interaction Service]()
 
 placeholder 
 
@@ -107,7 +107,7 @@ placeholder
 
 ---
 
-[CUDiningView - Dining Hall Crowdedness](pages/vr-conducting)
+[CUDiningView - Dining Hall Crowdedness]()
 
 placeholder 
 
