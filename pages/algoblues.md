@@ -12,5 +12,5 @@ The trick to make this easy was to use the lilypond python library. This provide
  One output of the work can be listened to here:
 
 <audio controls>
-  <source src="files/algoblues.mp3" type="audio/mpeg">
+  <source src="https://sunnybala.com/portfolio/files/algoblues.mp3" type="audio/mpeg">
 </audio>
