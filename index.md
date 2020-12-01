@@ -91,7 +91,7 @@ I had recently learned about markov chains in my probability coursework and look
 
 ---
 
-[CUDiningView - Dining Hall Crowdedness (link no longer active)]()
+[CUDiningView - Dining Hall Crowdedness (link no longer active)](#)
 
 Team project for a hackathon. We were constantly frustrated by arriving at a crowded dining hall and finding no available seating. The goal was to create a realtime monitor that students could check to find out whether the dining hall was crowded. We convinced Columbia dining administration to send us aggregated swipe counts every 10 minutes. We used this count to model the number of students in the dining hall at any given time. Our model, while simple, made adjustments for longer times for all diners as the occupancy increased. 
 
