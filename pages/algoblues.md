@@ -8,7 +8,7 @@ In the simplest sense, a markov chain transition matrix represents the probabili
 
 The trick to make this easy was to use the lilypond python library. This provides a syntax for writing out music like so. Each "word" in the syntax below corresponds to a pitch-length tuple. Therefore the markov chain just needed to randomly generate new valid words in this syntax and I would be left with a playable piece! 
 
-Lilypond syntax:
+Example Lilypond syntax that encodes both pitch and note length:
 ```
  r2 r4 r2 g''4 des''8 c''4 g'8 bes'8 
  r4 bes'4 r2 r4 r2  r8-end g'8 bes'8 
