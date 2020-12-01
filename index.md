@@ -77,41 +77,23 @@ A popular YouTuber put up an alleged video of him slapping himself in the face f
 
 [Landmark - Natural Directions](https://github.com/benlowkh/Landmark)
 
-placeholder 
+Team project for hackathon. We created a more human-centered directions experience by looking for photos taken near decision points (turns, stops, etc.). Using an image recognition API, when then provided a directions service that gave instructions in ways people typically give each other. The goal was to emulate the feeling of a local telling you "go down this road and turn left at the church."
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-[Course Recommender](pages/vr-conducting)
-
-placeholder 
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/landmark.png?raw=true"/>
 
 ---
 
-[AlgoBlues - Markov Chain Music](pages/vr-conducting)
+[AlgoBlues - Markov Chain Music](pages/algoblues)
 
-placeholder 
+I had recently learned about markov chains in my probability coursework and looked at applying it to generate blues improvisations over chord structures. By reading in a few pages of source material, I was able to build a transition matrix between notes and durations that was appropriate for the key signature. The end result was a piano melody that noodled around while drawing some common themes from the original source.  
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-[Bestie - Social Interaction Service]()
-
-placeholder 
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/algoblues.png?raw=true"/>
 
 ---
 
-[CUDiningView - Dining Hall Crowdedness]()
+[CUDiningView - Dining Hall Crowdedness (link no longer active)]()
 
-placeholder 
+Team project for a hackathon. We were constantly frustrated by arriving at a crowded dining hall and finding no available seating. The goal was to create a realtime monitor that students could check to find out whether the dining hall was crowded. We convinced Columbia dining administration to send us aggregated swipe counts every 10 minutes. We used this count to model the number of students in the dining hall at any given time. Our model, while simple, made adjustments for longer times for all diners as the occupancy increased. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 ---
