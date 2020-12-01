@@ -1,4 +1,4 @@
-## Spherical Cucumber
+## AlgoBlues
 
 **Quick Look:** I had recently learned about markov chains in my probability coursework and looked at applying it to generate blues improvisations over chord structures. By reading in a few pages of source material, I was able to build a transition matrix between notes and durations that was appropriate for the key signature. The end result was a piano melody that noodled around while drawing some common themes from the original source.  
 
