@@ -22,3 +22,5 @@ Lilypond syntax:
 <audio controls>
   <source src="https://sunnybala.com/portfolio/files/algoblues.mp3" type="audio/mpeg">
 </audio>
+
+The code is available at my <a href="https://github.com/sunnybala/AlgoBlues">github</a>.
