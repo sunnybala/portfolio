@@ -10,7 +10,11 @@ The trick to make this easy was to use the lilypond python library. This provide
 
 Lilypond syntax:
 ```
- r2 r4 r2 g''4 des''8 c''4 g'8 bes'8 r4 bes'4 r2 r4 r2  r8-end g'8 bes'8 c''8 bes'8 des''8 c''8 bes'8 des''8 c''8 bes'8 des''8 c''8 bes'8 g'8 c''8  r8-end bes''4 r8 g''4 des''8 c''4 g'8 bes'8 r8 bes'4 r8 g'8  r8-end c''8 c''8 des''8 des''8 ees''4 e''8 f''8 -end f''4 f''8 fis''8 fis''8 g''4 a''8 -end r8 e'''8 r8 ees'''8 r8 ees'''8 r8 e'''8 r8 ees'''8 r8 ees'''8 r8 ees'''8 r8 ees'''8 -end f'4 bes'8 c''8 bes'8 g''8 des''8 g'8 bes'4 f'4 bes'8 c''8
+ r2 r4 r2 g''4 des''8 c''4 g'8 bes'8 
+ r4 bes'4 r2 r4 r2  r8-end g'8 bes'8 
+ c''8 bes'8 des''8 c''8 bes'8 des''8 
+ c''8 bes'8 des''8 c''8 bes'8 g'8 c''8  
+ r8-end bes''4 r8 g''4 des''8 c''4 g'8
 ```
 
  Each chord had it's own markov chain. Finally, there was one "finisher" matrix corresponding to the ending of the pieces in the training set. This helped the ending of the piece have some cohesion. One output of the work can be listened to here:
