@@ -2,13 +2,13 @@
 
 ---
 
-### 2020 
+### 2021 
 
 [BaristArt: Latte Fluid Simulation](https://barist.art/)
 
 The ability to run webGL fluid simulations easily and cross platform in browsers opens up lots of possibilities for online games. I made this game to showcase how you can make virtual latte art! 
 
-<img src="images/baristart.jpeg?raw=true"/>
+<img src="images/baristart.png?raw=true"/>
 
 ---
 
