@@ -20,7 +20,7 @@ Example Lilypond syntax that encodes both pitch and note length:
  Each chord had it's own markov chain. Finally, there was one "finisher" matrix corresponding to the ending of the pieces in the training set. This helped the ending of the piece have some cohesion. One output of the work can be listened to here:
 
 <audio controls>
-  <source src="https://sunnybala.com/portfolio/files/algoblues.mp3" type="audio/mpeg">
+  <source src="https://sunnybala.com/files/algoblues.mp3" type="audio/mpeg">
 </audio>
 
 The code is available at my <a href="https://github.com/sunnybala/AlgoBlues">github</a>.
