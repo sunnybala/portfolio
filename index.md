@@ -1,3 +1,8 @@
+---
+layout: Template
+title: Sunny's Projects
+---
+
 ## // Projects
 
 ---
