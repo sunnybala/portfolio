@@ -8,7 +8,7 @@
 
 I've wanted to make a typing website for a while. My goal was to track typing stats to find weak transitions between letters, then generate drills of real words that let people practice the combinations that they're slowest at. 
 
-<img src="images/pairtype.png?raw=true"/>
+<img src="images/pairtype.PNG?raw=true"/>
 
 ---
 
