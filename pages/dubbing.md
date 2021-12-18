@@ -25,7 +25,7 @@ Now in this first episode there’s 6 panelists and 6 main characters. I know th
 
 As usual though there’s some complications. One reason this is so popular to do with speeches is that you get long stretches of isolated speech. When you have a tv show with multiple characters and group dynamics, this speech generation is going to struggle with situations where multiple people are speaking at the same time. I experimented with grabbing different audio clips from the clusters, and combining them, but the results were mixed sounded garbled. I ended up using an trick here -- I have the training data that the network was based off of. These are clean snippets of single speaker speech. So I just mapped each speaker cluster to the closest speaker from my training set. 
 
-<img src="/portfolio/images/th-mel.png?raw=true"/>
+<img src="images/th-mel.png?raw=true"/>
 
 In the image above I show the intermediate output for a single line of speech. On the top, we can see the cluster that this particular line has been identified as belonginging to. All other highlighted dots of the same color use the same vector of embeddings to produce speech. On the bottom is the mel spectrogram. While this format is not as useful by itself, it is important when diagnosing issues of audio quality. For example, certain sounds may not be replicated appropriately or the neural network output may have gaps. These sorts of issues were generally fixed by using the "clean" samples I mentioned earlier. 
 
