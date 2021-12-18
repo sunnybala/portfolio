@@ -132,5 +132,3 @@ This approach overall is pretty simplistic. There's a lot of neat questions you 
 I don't look into any of these questions but with some work the code could be modified do that.
 
 Another extension happens in the real world. Here I have a simple model for how humans behave in elevators. Is my model accurate? A natural next step would be to try and obtain elevator security camera footage and track actual standing locations. This would be a great way to figure out if the simplifying assumptions at the beginning are fair for the situation. 
-
-{% include disqus_comments.html %}
