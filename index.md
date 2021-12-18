@@ -52,14 +52,14 @@ Inspired by the Japanese square watermelon which is created by growing into a sp
 
 ### 2018
 
-[Etch-a-Sketch Robot](https://sunnybala.com/2018/09/10/python-etch-a-sketch.html)
+[Etch-a-Sketch Robot](pages/etch_a_sketch)
 
  This was my first hardware project. I connected motors to the knob of an etch-a-sketch and designed a process to reproduce images on the screen by converting the image to a graph representation and traversing it.
 
 <img src="images/etch.png?raw=true"/>
 
 ---
-[Elevator Awkwardness Minimizer](https://sunnybala.com/2018/04/10/reducing-elevator-awkwardness.html)
+[Elevator Awkwardness Minimizer](pages/awkward_elevators)
 
 For a period of time due to construction we could not use the stairs and had to take the elevator in the office. This led to cramped conditions as everyone crowded in. Here, I simulated different numbers of agents within the confines of an elevator that tried to maximize their distance with each other. The result of this was a series of recommendations around where to stand given N people in the elevator.
 
