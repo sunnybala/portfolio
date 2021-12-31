@@ -15,6 +15,8 @@ I wanted to try doing the same. At the time, I was living in a tiny NYC apartmen
 
 I wanted the shape to be something surprising -- spherical cucumbers fit that bill. In designing the case I needed something that I could see into as well. After some experimentation I settled on something like a geodesic dome with thick strips. Additionally I needed to actually close it up so I just added some mounting holes on the sides where I fastened screws and nuts. 
 
+<img src="/images/cuke.png?raw=true"/>
+
 This project ultimately failed in a pretty predictable way (ex post). The watermelon enclosures are often much smaller than the natural end size of the watermelon in each dimension. Like a balloon being blown up, the watermelons also grow in all directions to reach their elliptical shape. On the other hand, the containers I had made were too small for the cucumbers. The cucumber growth was largely in length, which led to it hitting the opposing side of my contained and simply bending around it. 
 
 <img src="/images/bent-cuke.png?raw=true"/>
