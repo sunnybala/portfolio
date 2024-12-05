@@ -18,6 +18,14 @@ The ability to run webGL fluid simulations easily and cross-platform in browsers
 
 ---
 
+[Random Walks Around Manhattan](pages/random_walk_manhattan)
+
+Having spent over a decade wandering the streets of Manhattan, I wanted to simulate the results of making random turns at every opportunity. 
+
+<img src="images/random-walk-nyc.PNG?raw=true"/>
+
+---
+
 [AI Speech Synthesis for Dubbing](pages/dubbing)
 
 Neural networks have been shown as being effective for cloning voices given speech data (ex. creating fake speeches by politicians). Recent multi-speaker networks work in the space of vocal characteristics and therefore no longer require training for each speaker individually. Here, I applied one such network to automatically dub an episode of a Japanese reality show (Terrace House) into English.
