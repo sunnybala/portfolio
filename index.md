@@ -50,6 +50,14 @@ I've always wanted to play around with an e-ink panel. Commuting via the Metro N
 
 ---
 
+[Lego Wireless Charger](pages/lego-wireless-charger)
+
+Quick build -- replacing a wireless charger housing with legos for a more fun look.
+
+<img src="images/lego-charger.png?raw=true"/>
+
+---
+
 [Spherical Cucumber](pages/cucumber)
 
 Inspired by the Japanese square watermelon which is created by growing into a special mold, I thought it would be fun to learn more about CAD + 3D Printing by applying a similar idea to cucumbers. I grew cucumbers in my apartment and designed a special mold to try and force them into a spherical shape. Unfortunately I didn’t succeed – they just bent.
