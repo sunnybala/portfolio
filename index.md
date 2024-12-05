@@ -2,8 +2,6 @@
 
 ---
 
-### 2021 
-
 [PairType: Typing Trainer](https://pairtype.com/)
 
 I've wanted to make a typing website for a while. My goal was to track typing stats to find weak transitions between letters, then generate drills of real words that let people practice the combinations that they're slowest at. 
@@ -11,8 +9,6 @@ I've wanted to make a typing website for a while. My goal was to track typing st
 <img src="images/pairtype.PNG?raw=true"/>
 
 ---
-
-### 2021 
 
 [BaristArt: Latte Fluid Simulation](https://barist.art/)
 
@@ -22,8 +18,6 @@ The ability to run webGL fluid simulations easily and cross-platform in browsers
 
 ---
 
-### 2020 
-
 [AI Speech Synthesis for Dubbing](pages/dubbing)
 
 Neural networks have been shown as being effective for cloning voices given speech data (ex. creating fake speeches by politicians). Recent multi-speaker networks work in the space of vocal characteristics and therefore no longer require training for each speaker individually. Here, I applied one such network to automatically dub an episode of a Japanese reality show (Terrace House) into English.
@@ -31,8 +25,6 @@ Neural networks have been shown as being effective for cloning voices given spee
 <img src="images/terrace_house.png?raw=true"/>
 
 ---
-
-### 2019
 
 [E-Ink Train Display](pages/eink_train_display)
 
@@ -49,8 +41,6 @@ Inspired by the Japanese square watermelon which is created by growing into a sp
 <img src="images/cuke.png?raw=true"/>
 
 ---
-
-### 2018
 
 [Etch-a-Sketch Robot](pages/etch_a_sketch)
 
@@ -75,9 +65,7 @@ Both Senators and House Representatives are required to disclose financial stock
 
 ---
 
-### 2017
-
-[Virtual Reality Conducting Game](pages/vr-conducting)
+[Virtual Reality Conducting Game](pages/vr_conducting)
 
 As an early adopter of the HTC Vive, I was amazed by the possibilities. For this project I learned how to use the Unity game engine and designed a game to conduct a virtual orchestra. I used MIDI files to get the scores across instruments then allowed the player to control the tempo, volume, and cue-ing individual instruments to come in.
 
@@ -85,15 +73,13 @@ As an early adopter of the HTC Vive, I was amazed by the possibilities. For this
 
 ---
 
-[Fake YouTube Video Detection](https://sunnybala.com/2017/05/28/python-video-loop-detection.html)
+[Fake YouTube Video Detection](pages/video_loop_detection)
 
 A popular YouTuber put up an alleged video of him slapping himself in the face for 24 hours. I wanted to try using python on video data to verify if the video was legitimate. 
 
 <img src="images/slap.png?raw=true"/>
 
 ---
-
-### 2016 and Prior (College)
 
 [Landmark - Natural Directions](https://github.com/benlowkh/Landmark)
 
