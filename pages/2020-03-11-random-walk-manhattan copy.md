@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A Random Walk Through Manhattan
-comments: true
+author:
+  - Sunny
 ---
 
 

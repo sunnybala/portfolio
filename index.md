@@ -22,7 +22,7 @@ The ability to run webGL fluid simulations easily and cross-platform in browsers
 
 Having spent over a decade wandering the streets of Manhattan, I wanted to simulate the results of making random turns at every opportunity. 
 
-<img src="images/random-walk-nyc.PNG?raw=true"/>
+<img src="images/random-walk-nyc.png?raw=true"/>
 
 ---
 
