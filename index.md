@@ -26,6 +26,14 @@ Having spent over a decade wandering the streets of Manhattan, I wanted to simul
 
 ---
 
+[Charging Airpods with an iPhone](pages/charging-airpods)
+
+Wouldn't it be nice if your iPhone could lend some juice to your Airpods? A small hardware project.
+
+<img src="images/charge-airpods-yt.png?raw=true"/>
+
+---
+
 [AI Speech Synthesis for Dubbing](pages/dubbing)
 
 Neural networks have been shown as being effective for cloning voices given speech data (ex. creating fake speeches by politicians). Recent multi-speaker networks work in the space of vocal characteristics and therefore no longer require training for each speaker individually. Here, I applied one such network to automatically dub an episode of a Japanese reality show (Terrace House) into English.
